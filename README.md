@@ -1,7 +1,7 @@
 # Computational Theory Project by Luke Corcoran
 ## Overview
 
-This repository is dedicated to an independent exploration of fundamental computing concepts, including binary operations, hash functions, number theory, proof-of-work challenges, and computational complexity. The project is structured as a set of tasks designed to enhance practical understanding and problem-solving skills in computational theory.
+This repository is dedicated to an independent exploration of fundamental computing concepts, including binary operations, hash functions, number theory, proof-of-work challenges, and computational complexity. The project is structured as a set of tasks designed to enhance practical understanding and problem-solving skills in computational theory. Tests are used to both validate functionality and aid as explanation for various computing concepts.
 
 ## Table of Contents
 - [Installation](#installation)
